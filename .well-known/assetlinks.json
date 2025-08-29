@@ -4,10 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.ThirunabiMadh",
-      "sha256_cert_fingerprints": [
-        "F3:68:47:0D:15:0A:06:DB:76:1B:7F:18:58:76:46:BC:6E:91:22:6C:66:A9:6B:FB:FB:47:61:67:C7:98:56:78",
-        "54:19:DD:2F:5A:5D:1D:FE:5F:C4:3B:E2:4E:56:1A:97:52:4F:4D:59:53:11:A4:3F:6F:81:CE:56:EA:7C:E0:E9"
-      ]
+      "sha256_cert_fingerprints":
+        ["F3:68:47:0D:15:0A:06:DB:76:1B:7F:18:58:76:46:BC:6E:91:22:6C:66:A9:6B:FB:FB:47:61:67:C7:98:56:78", "54:19:DD:2F:5A:5D:1D:FE:5F:C4:3B:E2:4E:56:1A:97:52:4F:4D:59:53:11:A4:3F:6F:81:CE:56:EA:7C:E0:E9"]
     }
   }
 ]
