@@ -570,6 +570,12 @@ textarea{
      padding-top:20px;
      padding-bottom:5px;
     }
+    .fscustom{
+        font-size: small;
+    }
+    .fontsize{
+        font-size: 10px;
+    }
     input,select,textarea{
     padding-top: 8px;
     padding-bottom: 8px;
